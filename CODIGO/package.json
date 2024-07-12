@@ -1,0 +1,16 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VILHALVA",
+  "author": "VILHALVA",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  }
+}
